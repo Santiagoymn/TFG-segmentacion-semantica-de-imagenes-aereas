@@ -1,6 +1,6 @@
 # TFG-segmentacion-semantica-de-imagenes-aereas
 
-En este repositorio se encuenrtan cuatro carpetas distintas, en ellas se encuentra lo siguiente:
+En este repositorio se encuentran cuatro carpetas distintas, en ellas se encuentra lo siguiente:
 
 ## Entrenamientos
 En esta carpeta se encuentran los distintos ficheros Jupyter con los que se han llevado a cabo los distintos entrenamiento, por ello, existen cuatro ficheros Jupyter siendo estos:
